@@ -1,2 +1,3 @@
 # copilotx
-A playground for learning CopilotX
+
+Anthony's Copilot X demos
