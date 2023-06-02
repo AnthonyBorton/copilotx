@@ -13,7 +13,7 @@ Visit [https://gh.io/copilotx](https://gh.io/copilotx)
 
 Filename | My usage
 --- | ---
-utils.py | I use this to show some of the core features of Copilot Chat. The file comes from the awesome (YouTube video)[https://www.youtube.com/watch?v=3surPGP7_4o] that Allison (@2percentsilk) recorded. Watch the video for the use cases.
+utils.py | I use this to show some of the core features of Copilot Chat. The file comes from the awesome [https://www.youtube.com/watch?v=3surPGP7_4o](YouTube video) that Allison (@2percentsilk) recorded. Watch the video for the use cases.
 parse_expenses.py | Also from the awesome video mentioned in the previous row
 test.asm | I like to show Copilot Chat translating this Assembly lnaguage into Python
 genericListener.cob | I usually show Copilot Chat translating this COBOL into Java
