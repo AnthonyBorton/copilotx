@@ -18,6 +18,7 @@ parse_expenses.py | Also from the awesome video mentioned in the previous row
 test.asm | I like to show Copilot Chat translating this Assembly language into Python
 genericListener.cob | I usually show Copilot Chat translating this COBOL into Java
 vulnerable.php | I ask Copilot Chat if this code is secure. It tell me that it's not. I then ask Copilot Chat to fix the code.
+transaction.js | I use this to show Chat rewriting the calculateTax function to look up the tax rate. "calculateTax needs to take the zip code and look up the tax rate". Note that it will likely invent an API.
 
 
 # Copilot 4 docs
