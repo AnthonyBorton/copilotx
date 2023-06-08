@@ -19,6 +19,7 @@ test.asm | I like to show Copilot Chat translating this Assembly language into P
 genericListener.cob | I usually show Copilot Chat translating this COBOL into Java
 vulnerable.php | I ask Copilot Chat if this code is secure. It tell me that it's not. I then ask Copilot Chat to fix the code.
 transaction.js | I use this to show Chat rewriting the calculateTax function to look up the tax rate. "calculateTax needs to take the zip code and look up the tax rate". Note that it will likely invent an API.
+login-service.ts | Ask Copilot Chat to add a function to check if a password has been breached. It will usually suggest code to call the haveibeenpwnd API. Note this also uses security-database-service.ts so the code is a little cleaner.
 
 
 # Copilot 4 docs
