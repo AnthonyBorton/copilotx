@@ -20,6 +20,8 @@ genericListener.cob | I usually show Copilot Chat translating this COBOL into Ja
 vulnerable.php | I ask Copilot Chat if this code is secure. It tell me that it's not. I then ask Copilot Chat to fix the code.
 transaction.js | I use this to show Chat rewriting the calculateTax function to look up the tax rate. "calculateTax needs to take the zip code and look up the tax rate". Note that it will likely invent an API.
 login-service.ts | Ask Copilot Chat to add a function to check if a password has been breached. It will usually suggest code to call the haveibeenpwnd API. Note this also uses security-database-service.ts so the code is a little cleaner.
+obfuscated.c | Ask Copilot chat to explain the code. It's obfuscated C code that does strange things with pointers, but Copilot seems to be able to interpret it
+mystery.py | An extreme example of what Copilot Chat can do (likely because it's a famous example). Ask it to explain the code. Ideally run the code (you'll need python 2.7 - run `py -2.7 mystery.py`) then open the resulting M.bmp file which should get built on screen as you watch.
 
 
 # Copilot 4 docs
