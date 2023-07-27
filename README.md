@@ -22,6 +22,9 @@ transaction.js | I use this to show Chat rewriting the calculateTax function to 
 login-service.ts | Ask Copilot Chat to add a function to check if a password has been breached. It will usually suggest code to call the haveibeenpwnd API. Note this also uses security-database-service.ts so the code is a little cleaner.
 obfuscated.c, obfuscated.java | Ask Copilot chat to explain the code. The first is obfuscated C code that does strange things with pointers, but Copilot seems to be able to interpret it. The second is Java with unreadable class and variable names, however Copilot identifies that it's just calculating the area of a circle. A great second step is asking to make it readable.
 mystery.py | An extreme example of what Copilot Chat can do (likely because it's a famous example). Ask it to explain the code. Ideally run the code (you'll need python 2.7 - run `py -2.7 mystery.py`) then open the resulting M.bmp file which should get built on screen as you watch.
+wordReverse.js | Without using my hands, I talk with Copilot Voice and explain it step by step what I want to code. I also ask for some changes on the fly and to explain the code.
+romanConverter.test.js | Copilot Chat generates unit tests covering edge cases for a function that converts Roman numerals to integers. I did not provide the number to letter mapping, it got it right by itself.
+move-commit-new-branch.sh | Copilot CLI generates and explains me the commands to move the last commit to a new branch.
 
 
 # Copilot 4 docs
